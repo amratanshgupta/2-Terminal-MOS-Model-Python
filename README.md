@@ -19,7 +19,9 @@ Python 3.x
 4. Plots will be plotted
 
 ## Output of the Model
+
 Plots which one can get is shown below:
+
 Option 1: Corresponds to Surface Potential vs Gate-Body Bias Plot
 ![Surface Potential vs Gate Body Bias](https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Surface_Potential_vs_Gate_Body_Bias.png)
 
