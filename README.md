@@ -20,18 +20,18 @@ Python 3.x
 
 ## Output of the Model
 Plots which one can get is shown below:
-**Option 1: Corresponds to Surface Potential vs Gate-Body Bias Plot
-(https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Surface_Potential_vs_Gate_Body_Bias.png)
+Option 1: Corresponds to Surface Potential vs Gate-Body Bias Plot
+![Surface Potential vs Gate Body Bias](https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Surface_Potential_vs_Gate_Body_Bias.png)
 
-**Option 2: Corresponds to Semiconductor Charge vs Surface Potential Plot
-(https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Total_SC_Charge_vs_Gate_Body_Bias.png)
+Option 2: Corresponds to Semiconductor Charge vs Surface Potential Plot
+![Total Semiconductor Charge vs Surafe Potential](https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Total_SC_Charge_vs_Gate_Body_Bias.png)
 
-**Option 3: Corresponds to Semiconductor Charge vs Gate Body Bias Plot
-(https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Total_SemiConductor_Charge_vs_Gate_Body_Bias.png)
+Option 3: Corresponds to Semiconductor Charge vs Gate Body Bias Plot
+![Total SemiConductor Charge vs Gate Body Bias](https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Total_SemiConductor_Charge_vs_Gate_Body_Bias.png)
 
-**Option 4: Corresponds to Capacitance vs Surface Potential Plot
-(https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Cap_vs_Surface_Potential.png)
+Option 4: Corresponds to Capacitance vs Surface Potential Plot
+![Capacitance Components vs Surface Potential](https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Cap_vs_Surface_Potential.png)
 
-**Option 5: Corresponds to Capacitance vs Gate Body Bias Plot
-(https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Cap_vs_VGB.png)
+Option 5: Corresponds to Capacitance vs Gate Body Bias Plot
+![Capacitance Components vs Gate Body Bias](https://github.com/amratanshgupta/2-Terminal-MOS-Model-Python/blob/master/Cap_vs_VGB.png)
 
